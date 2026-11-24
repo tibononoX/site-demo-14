@@ -1,0 +1,133 @@
+{
+  "lang": "fr",
+  "name": "FlorStory",
+  "initial": "F",
+  "trade": "florist",
+  "tradeLabel": "Fleuriste · Givisiez",
+  "theme": {
+    "mode": "light",
+    "accent": "#c2410c",
+    "display": "serif",
+    "hero": "split"
+  },
+  "hero": {
+    "eyebrow": "Valentine Mottas · Impasse des Lilas 2, Givisiez",
+    "title": "Des fleurs",
+    "titleEm": "pour chaque histoire.",
+    "lead": "Magasin de fleurs et art floral : bouquets, arrangements, mariages, deuils, abonnements et livraison à domicile.",
+    "image": "roses.jpg",
+    "alt": "Roses rouges et blanches dans une composition de FlorStory"
+  },
+  "rating": {
+    "score": "4,8",
+    "count": 37,
+    "source": "Google"
+  },
+  "intro": {
+    "title": "Le magasin de Valentine Mottas",
+    "paragraphs": [
+      "FlorStory propose une vaste gamme de confections florales personnalisées : bouquets, arrangements, décorations florales, créations de mariage et de deuil.",
+      "Au magasin de l'impasse des Lilas, à Givisiez, vous trouverez aussi des articles de décoration. Pour les entreprises comme pour les particuliers, FlorStory fleurit vos réceptions et propose des abonnements."
+    ],
+    "image": "magasin.jpg",
+    "alt": "La devanture du magasin FlorStory, avec ses fleurs sous le store orange"
+  },
+  "services": {
+    "title": "Nos créations",
+    "items": [
+      {
+        "title": "Bouquets et arrangements",
+        "text": "Des confections florales personnalisées, avec livraison à domicile."
+      },
+      {
+        "title": "Mariages",
+        "text": "Bouquets de mariée, boutonnières, décoration d'église, de table et de voiture."
+      },
+      {
+        "title": "Deuils",
+        "text": "Dessus de cercueil, couronnes, gerbes et bouquets main."
+      },
+      {
+        "title": "Abonnements",
+        "text": "Des abonnements floraux pour les entreprises et les particuliers."
+      },
+      {
+        "title": "Réceptions",
+        "text": "Décorations florales pour fleurir vos réceptions."
+      },
+      {
+        "title": "Articles de décoration",
+        "text": "À découvrir au magasin, à Givisiez."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Quelques créations",
+    "items": [
+      {
+        "image": "bouquet-rose.jpg",
+        "alt": "Bouquet rond de roses et gerberas roses"
+      },
+      {
+        "image": "couronne.jpg",
+        "alt": "Couronne de roses blanches et de verdure"
+      },
+      {
+        "image": "table-mariage.jpg",
+        "alt": "Centre de table fleuri pour un mariage"
+      },
+      {
+        "image": "composition.jpg",
+        "alt": "Composition de gerberas fuchsia et de feuillages"
+      },
+      {
+        "image": "voiture.jpg",
+        "alt": "Décoration florale sur le capot d'une voiture de mariage"
+      },
+      {
+        "image": "bracelet.jpg",
+        "alt": "Bracelet floral porté au poignet"
+      }
+    ],
+    "label": "Créations"
+  },
+  "steps": {
+    "title": "Commander des fleurs",
+    "items": [
+      {
+        "title": "Passez ou appelez",
+        "text": "Au magasin de Givisiez ou au 026 466 46 40."
+      },
+      {
+        "title": "Racontez votre histoire",
+        "text": "Bouquet, mariage, deuil ou réception : chaque création est personnalisée."
+      },
+      {
+        "title": "Recevez vos fleurs",
+        "text": "À emporter au magasin, ou livrées à domicile."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Venir au magasin",
+    "lead": "Appelez-nous, écrivez-nous ou passez à l'impasse des Lilas.",
+    "phones": [
+      {
+        "label": "Magasin",
+        "display": "026 466 46 40",
+        "tel": "+41264664640"
+      }
+    ],
+    "email": "florstory@bluewin.ch",
+    "address": [
+      "Impasse des Lilas 2",
+      "1762 Givisiez"
+    ],
+    "hours": [
+      "Lundi : fermé",
+      "Mardi–vendredi : 8h30–12h00, 13h30–18h30",
+      "Samedi : 8h30–12h30",
+      "Dimanche : 9h30–11h30"
+    ]
+  }
+}
